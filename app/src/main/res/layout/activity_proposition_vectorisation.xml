@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".PropositionVectorisation">
+
+    <include layout="@layout/toolbar"/>
+
+
+
+    <ImageView
+        android:id="@+id/vecto1"
+        android:layout_width="115dp"
+        android:layout_height="115dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnVecto1"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/vecto2"
+        android:layout_width="115dp"
+        android:layout_height="115dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnVecto2"
+        app:layout_constraintEnd_toEndOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/vecto3"
+        android:layout_width="115dp"
+        android:layout_height="115dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnVecto3"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/vecto4"
+        android:layout_width="115dp"
+        android:layout_height="115dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/btnVecto4"
+        app:layout_constraintEnd_toEndOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/btnVecto1"
+        android:layout_width="101dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="190dp"
+        android:src="@drawable/ic_check"
+
+        app:layout_constraintBottom_toTopOf="@+id/vecto3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/btnVecto2"
+        android:src="@drawable/ic_check"
+        android:layout_width="101dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="190dp"
+        android:layout_marginEnd="40dp"
+
+        app:layout_constraintBottom_toTopOf="@+id/vecto4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/btnVecto3"
+        style="@style/TextPageAccueil"
+        android:layout_width="101dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="450dp"
+        android:src="@drawable/ic_check"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </ImageView>
+
+
+    <ImageView
+        android:id="@+id/btnVecto4"
+        style="@style/TextPageAccueil"
+        android:layout_width="101dp"
+        android:layout_height="30dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginTop="450dp"
+        android:src="@drawable/ic_check"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </ImageView>
+
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="22dp"
+        android:layout_marginBottom="21dp"
+        android:src="@drawable/ic_remplie"
+        android:layout_marginLeft="28dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="20dp"
+        android:layout_height="22dp"
+        android:layout_marginLeft="-30.99dp"
+        android:layout_marginBottom="21dp"
+        android:src="@drawable/ic_remplie"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </ImageView>
+
+
+
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="22dp"
+        android:layout_marginLeft="-89.5dp"
+        android:layout_marginBottom="21dp"
+        android:src="@drawable/ic_remplie"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:layout_width="20dp"
+        android:layout_height="22dp"
+        android:layout_marginLeft="85.5dp"
+        android:layout_marginBottom="21dp"
+        android:src="@drawable/ic_remplie"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+    </ImageView>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_bar"
+        android:layout_marginBottom="19.5dp"
+        android:layout_marginRight="1dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_bar"
+        android:layout_marginBottom="19.5dp"
+        android:layout_marginLeft="56.7dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_bar"
+        android:layout_marginRight="60dp"
+        android:layout_marginBottom="19.5dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

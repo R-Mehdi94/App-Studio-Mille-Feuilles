@@ -1,0 +1,34 @@
+<resources>
+    <!-- Gif Logo -->
+    <dimen name="gifLogoHeight">167dp</dimen>
+    <dimen name="gifLogowidth">155dp</dimen>
+
+    <!-- TextView Accueil -->
+
+    <dimen name="TxtVAccueilHeight">144dp</dimen>
+    <dimen name="TxtVAccueilWidth">262dp</dimen>
+
+    <!-- Gif Vidéo -->
+
+    <dimen name="gifVideoHeight">202dp</dimen>
+    <dimen name="gifVideoWidth">453dp</dimen>
+
+    <!-- Btn -->
+
+    <dimen name="bntHeight">65dp</dimen>
+    <dimen name="bntWidth">269dp</dimen>
+
+    <!-- Petit Btn -->
+
+    <dimen name="PetitBntHeight">42dp</dimen>
+    <dimen name="PetitBntWidth">101dp</dimen>
+
+    <!-- Petit Btn Suivant -->
+
+    <dimen name="PetitBntSvtHeight">43dp</dimen>
+    <dimen name="PetitBntSvtWidth">130dp</dimen>
+
+
+
+
+</resources>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mehdi1/AndroidStudioProjects/StudioMilleFeuilles/app/src/main/res/drawable/gradient_background.xml" value="0.1" />
+        <entry key="..\:/Users/Mehdi1/AndroidStudioProjects/StudioMilleFeuilles/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/Mehdi1/AndroidStudioProjects/StudioMilleFeuilles/app/src/main/res/layout/activity_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_choix.xml" value="0.4" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_importation_photo.xml" value="0.2" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_main.xml" value="0.549636803874092" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_proposition_vectorisation.xml" value="0.264" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_test.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_visualisation.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/fragment_second.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/layout/fragment_third.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mehdi1/Desktop/StudioMilleFeuilles/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.124" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/drawable/roundstyle.xml" value="0.3465" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_choix.xml" value="0.2073087431693989" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_choix2.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_choix_perso_resto.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_home_fragment_perso_recto.xml" value="0.22006578947368421" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_home_fragment_perso_resto.xml" value="0.22006578947368421" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_importation_photo.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_importation_photo_perso_resto.xml" value="0.22006578947368421" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_main.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_proposition_vectorisation.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_proposition_vectorisation_perso_resto.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_second_fragment_perso_recto.xml" value="0.22006578947368421" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_visualisation.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/activity_visualisation_perso_resto.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/fragment_home.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/fragment_second.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/layout/fragment_third.xml" value="0.22894736842105262" />
+        <entry key="..\:/Users/User/Desktop/Dev/StudioMilleFeuilles2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3465" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/drawable/border.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/drawable/gradient_background.xml" value="0.1" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/drawable/roundstyle.xml" value="0.24" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout-v21/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_choix.xml" value="0.33" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_importation_photo.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_proposition_vectorisation.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_test.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/activity_visualisation.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/fragment_home.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/fragment_second.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/fragment_third.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles/app/src/main/res/layout/mybytton.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/drawable-hdpi/roundstylegif.xml" value="0.362" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.115" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/drawable/gradient_background.xml" value="0.362" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.234" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/drawable/roundstyle.xml" value="0.234" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout-large/activity_main.xml" value="0.10564663023679417" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout-small/activity_main.xml" value="1.2840909090909092" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout-v21/activity_main.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout/activity_choix.xml" value="0.21039903264812576" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout/activity_importation_photo.xml" value="0.2" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout/activity_main.xml" value="0.22745901639344263" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout/activity_proposition_vectorisation.xml" value="0.2273037542662116" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout/activity_visualisation.xml" value="0.3625" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout/fragment_home.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout/fragment_second.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/layout/fragment_third.xml" value="0.28442028985507245" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.362" />
+        <entry key="..\:/Users/User/Desktop/StudioMilleFeuilles2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.362" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_bar.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_check.xml" value="0.1715" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_fleche.xml" value="0.216" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_non_remplie.xml" value="0.332" />
+        <entry key="app/src/main/res/drawable-anydpi/ic_remplie.xml" value="0.332" />
+        <entry key="app/src/main/res/layout/activity_choix.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_choix2.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_choix_perso_resto.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_home_fragment_perso_recto.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/activity_importation_photo.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/activity_importation_photo_perso_resto.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/activity_proposition_vectorisation.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_proposition_vectorisation_perso_resto.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_second_fragment_perso_recto.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/activity_visualisation.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_visualisation_perso_resto.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/fragment_home_perso_resto.xml" value="0.1912568306010929" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_second_perso_resto.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/fragment_third.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/toolbar2.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/toolbar_perso-resto.xml" value="0.20423497267759563" />
+        <entry key="app/src/main/res/layout/toolbar_perso_resto.xml" value="0.2243421052631579" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"> StudioMilleFeuilles</string>
+    <string name="accueil">Avec notre machine artisanale, nous ponvons imprimer sur des aliments plats comme des crepes, pancakes, blinis et meme des pains !</string>
+    <string name="suivant">Suivant</string>
+    <string name="photo">Photo</string>
+    <string name="galerie">Galerie</string>
+    <string name="choix">Veuillez prendre ou choisir une photo !</string>
+    <string name="retourBtn">Retour</string>
+    <string name="ImporterBtn">Importer</string>
+    <string name="choisirBtn">Choisir</string>
+    <string name="retour">Retour au menu principal</string>
+    <string name="seri">Serigraphie Alimentaire</string>
+    <string name="Biscuits">Biscuits</string>
+    <string name="selec">Sélectionner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
